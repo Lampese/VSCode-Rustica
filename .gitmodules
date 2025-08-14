@@ -1,0 +1,3 @@
+[submodule "tmLanguage-rustica"]
+	path = tmLanguage-rustica
+	url = https://github.com/Lampese/tmLanguage-Rustica.git

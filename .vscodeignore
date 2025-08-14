@@ -1,0 +1,16 @@
+*.vsix
+src/**
+.yarnrc
+**/*.ts
+**/*.map
+.gitignore
+.gitmodules
+.vscode/**
+.vscode-test/**
+**/tsconfig.json
+**/.eslintrc.json
+tmLanguage-rustica/test/** 
+vsc-extension-quickstart.md
+tmLanguage-rustica/server.js
+tmLanguage-rustica/.gitignore
+tmLanguage-rustica/package.json
